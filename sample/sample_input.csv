@@ -1,0 +1,7 @@
+job_title,company_name,location,work_type,employment_type,seniority,company_size,industry,posted_hours_ago,alumni_count,company_followers,hiring_person_listed,description
+Data Analyst,Acme Analytics,"Bengaluru, Karnataka, India",Remote,Full-time,Entry level,51-200,IT Services and IT Consulting,6,3,25000,1,"SQL Python Tableau reporting dashboards"
+Senior Java Software Engineer,TechNova,"Hyderabad, Telangana, India",Hybrid,Full-time,Mid-Senior level,"1,001-5,000",IT Services and IT Consulting,48,120,450000,0,"Java Spring microservices AWS Kafka Docker"
+Python Developer,StartupX,"Pune, Maharashtra, India",On-site,Full-time,Associate,11-50,Software Development,2,1,1200,1,"Python Django REST API"
+Data Scientist,BigBank,"Mumbai, Maharashtra, India",Hybrid,Full-time,Mid-Senior level,"10,001+",Financial Services,24,900,2000000,1,"machine learning python sql spark"
+Lead Automation Tester,QA Masters,"Chennai, Tamil Nadu, India",On-site,Contract,Mid-Senior level,201-500,IT Services and IT Consulting,72,15,30000,0,"Selenium Java testing automation"
+Business Analyst,Global Consulting,"Gurugram, Haryana, India",Remote,Full-time,Associate,"5,001-10,000",Business Consulting and Services,12,60,300000,1,"requirements Excel SQL agile"
